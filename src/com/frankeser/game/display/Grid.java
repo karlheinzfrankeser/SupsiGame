@@ -46,7 +46,7 @@ public class Grid implements Game {
 
     private void spreadCoins() {
         if(!this.coinsSet) {
-            
+
             this.coinsSet = true;
         } else return;
     }
